@@ -1,3 +1,6 @@
+Please use this youtube link to see the employee tracker in action
+https://www.youtube.com/watch?v=jaDa-UK9fKg&feature=youtu.be
+
 # Phase 1
 
 ## Build DB

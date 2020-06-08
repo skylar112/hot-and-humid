@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/skylar112/hot-and-humid/issues"
   },
-  "homepage": "https://github.com/skylar112/hot-and-humid#readme"
+  "homepage": "https://github.com/skylar112/hot-and-humid#readme",
+  "devDependencies": {}
 }
