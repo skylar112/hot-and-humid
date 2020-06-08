@@ -1,0 +1,23 @@
+{
+  "name": "day-3",
+  "version": "1.0.0",
+  "description": "* **department**:\r   * **id** - INT PRIMARY KEY\r   * **name** - VARCHAR(30) to hold department name\r * **role**:\r   * **id** - INT PRIMARY KEY\r   * **title** -  VARCHAR(30) to hold role title\r   * **salary** -  DECIMAL to hold role salary\r   * **department_id** -  INT to hold reference to department role belongs to\r * **employee**:\r   * **id** - INT PRIMARY KEY\r   * **first_name** - VARCHAR(30) to hold employee first name\r   * **last_name** - VARCHAR(30) to hold employee last name\r   * **role_id** - INT to hold reference to role employee has",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.1.0",
+    "mysql": "^2.18.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skylar112/hot-and-humid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/skylar112/hot-and-humid/issues"
+  },
+  "homepage": "https://github.com/skylar112/hot-and-humid#readme"
+}
