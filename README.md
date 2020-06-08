@@ -1,4 +1,4 @@
-Please use this youtube link to see the employee tracker in action
+Please use this youtube link to see the employee tracker in action<br>
 https://www.youtube.com/watch?v=jaDa-UK9fKg&feature=youtu.be
 
 # Phase 1
